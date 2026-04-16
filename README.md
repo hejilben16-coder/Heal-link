@@ -10,8 +10,9 @@ Remote patient monitoring and family update system built using Google AI Studio.
 
 ## 🛠 Tech Stack
 - Google AI Studio
-- Gemini API (optional)
+- Gemini API (planned)
 - Flutter (planned integration)
+- firebase(planned)
 
 ## 📁 Project Type
 Prototype exported from Google AI Studio.
