@@ -15,6 +15,7 @@ Remote patient monitoring and family update system built using Google AI Studio.
 
 ## 📁 Project Type
 Prototype exported from Google AI Studio.
+https://ai.studio/apps/42e903fe-2f77-48ec-9fa6-b2bc0acf4840?fullscreenApplet=true
 
 ## ⚠️ Note
 This is a prototype using simulated data and AI-generated logic.# Heal-link
