@@ -1,4 +1,4 @@
-# HealLink 🏥
+# Caresync 🏥
 
 Remote patient monitoring and family update system built using Google AI Studio.
 
@@ -19,4 +19,4 @@ Prototype exported from Google AI Studio.
 https://aistudio.google.com/apps/42e903fe-2f77-48ec-9fa6-b2bc0acf4840?showPreview=true
 
 ## ⚠️ Note
-This is a prototype using simulated data and AI-generated logic.# Heal-link
+This is a prototype using simulated data and AI-generated logic.# Caresync
